@@ -1,3 +1,5 @@
+package chap2;
+
 import java.util.*;
 import java.io.*;
 
