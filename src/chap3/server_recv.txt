@@ -1,0 +1,14 @@
+POST /posttest/PostTest HTTP/1.1
+Host: localhost:8001
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:63342/WebServer/chap3/form.html?_ijt=fhifk0vbppu9o2855v8d6v6bkb
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 170
+Cookie: Gogland-cab8b44e=20626fca-df51-4318-813c-b12ee31901ea; knowledge_TIME_ZONE_OFFSET=-540; knowledge_TIMEZONE=Asia/Tokyo; knowledge_CSRFTokens=rO0ABXNyACdvcmcuc3VwcG9ydC5wcm9qZWN0LndlYi5iZWFuLkNTUkZUb2tlbnMAAAAAAAAAAQIAAUwABnRva2Vuc3QAGUxqYXZhL3V0aWwvTGlua2VkSGFzaE1hcDt4cHNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABGNzcmZzcgAmb3JnLnN1cHBvcnQucHJvamVjdC53ZWIuYmVhbi5DU1JGVG9rZW4AAAAAAAAAAQIAA0wABGRhdGV0ABBMamF2YS91dGlsL0RhdGU7TAADa2V5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAFdG9rZW5xAH4ACXhwc3IADmphdmEudXRpbC5EYXRlaGqBAUtZdBkDAAB4cHcIAAABYay8qP94cQB%24AAZ0ACwxam4ySFFyRG1DdUdWVHNLRzM1WUZBaURCRExRZndFX2JTQV9uRjk5V1hnPXgA; vmware_client=VMware; Idea-e7272ba1=916a710d-7c3d-4311-bb3f-89391f3fb687
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+text_name=aa&password_name=bb&textarea_name=cc&radio_name=radio2&check_name=check4&hidden_name=hidden_value%93%FA%96%7B%8C%EA&file_name=&submit_name=%91%97%82%E9%82%E6%21

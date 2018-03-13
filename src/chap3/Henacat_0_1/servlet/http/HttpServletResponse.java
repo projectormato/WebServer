@@ -1,0 +1,13 @@
+package chap3.Henacat_0_1.servlet.http;
+import java.io.*;
+
+public interface HttpServletResponse {
+    static final int SC_OK = 200;
+    static final int SC_FOUND = 302;
+
+    void setContentType(String contentType);
+    void setCharacterEncoding(String charset);
+    PrintWriter getWriter() throws IOException;
+    void sendRedirect(String location);
+    void setStatus(int sc);
+}
