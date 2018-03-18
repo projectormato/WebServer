@@ -1,10 +1,11 @@
 package chap3.Henacat_0_1.webserver;
+
 import java.net.*;
 import java.util.*;
 import java.io.*;
 import java.nio.file.*;
-import com.kmaebashi.henacat.servletimpl.*;
-import com.kmaebashi.henacat.util.*;
+import chap3.Henacat_0_1.util.*;
+import chap3.Henacat_0_1.servletimpl.*;
 
 public class ServerThread implements Runnable {
     private static final String DOCUMENT_ROOT = "C:\\Apache24\\htdocs";
